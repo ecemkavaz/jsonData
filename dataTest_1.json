@@ -8,7 +8,7 @@
 					"colname": "level3",
 				“children”:[ 
 					{"name":"mister_bb","group":"A","value":19,"colname":"level3"},
-                                        {"name":"mister_cc","group":"C","value":18,"colname":"level3"},]
+                                        {"name":"mister_cc","group":"C","value":18,"colname":"level3"}],
 
 				},
 				{
