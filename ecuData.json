@@ -82,61 +82,29 @@
  {"name": 187,"thread": 84, "mapValue": 84, "value": 2, "": ""},
  {"name": 222, "thread": 84, "mapValue": 84, "value": 2, "": ""},
  
- {
-    "name": 108,
-    "thread": 87,
-    "mapValue": 1,
-    "value": 6,
-    "": ""
+ {"name": 108, "thread": 87, "mapValue": 1, "value": 6, "": ""},
+ {"name": 119, "thread": 87, "mapValue": 1, "value": 6, "": ""},
+ {"name": 317, "thread": 87, "mapValue": 1, "value": 6, "": ""},
+ {"name": 224, "thread": 91, "mapValue": 1, "value": 4, "": ""},
+ {"name": 208, "thread": 98, "mapValue": 1, "value": 3, "": ""},
+ {"name": 236,
+"thread": 122,
+"mapValue": "",
+"value": 3,
+"": ""
   },
   {
-    "name": 119,
-    "thread": 87,
-    "mapValue": 1,
-    "value": 6,
-    "": ""
+"name": 130,
+"thread": 130,
+"mapValue": 130,
+"value": 1, "": ""
   },
   {
-    "name": 317,
-    "thread": 87,
-    "mapValue": 1,
-    "value": 6,
-    "": ""
-  },
-  {
-    "name": 224,
-    "thread": 91,
-    "mapValue": 1,
-    "value": 4,
-    "": ""
-  },
-  {
-    "name": 208,
-    "thread": 98,
-    "mapValue": 1,
-    "value": 3,
-    "": ""
-  },
-  {
-    "name": 236,
-    "thread": 122,
-    "mapValue": "",
-    "value": 3,
-    "": ""
-  },
-  {
-    "name": 130,
-    "thread": 130,
-    "mapValue": 130,
-    "value": 1,
-    "": ""
-  },
-  {
-    "name": 234,
-    "thread": 133,
-    "mapValue": 1,
-    "value": 8,
-    "": ""
+"name": 234,
+"thread": 133,
+"mapValue": 1,
+"value": 8,
+"": ""
   },
   {
     "name": 141,
@@ -222,61 +190,14 @@
     "value": 8,
     "": ""
   },
-  {
-    "name": 240,
-    "thread": 233,
-    "mapValue": 1,
-    "value": 8,
-    "": ""
-  },
-  {
-    "name": 253,
-    "thread": 235,
-    "mapValue": 1,
-    "value": 6,
-    "": ""
-  },
-  {
-    "name": 297,
-    "thread": 236,
-    "mapValue": 1,
-    "value": 4,
-    "": ""
-  },
-  {
-    "name": 256,
-    "thread": 240,
-    "mapValue": 1,
-    "value": 9,
-    "": ""
-  },
-  {
-    "name": 243,
-    "thread": 241,
-    "mapValue": 1,
-    "value": 9,
-    "": ""
-  },
-  {
-    "name": 277,
-    "thread": 243,
-    "mapValue": 1,
-    "value": 10,
-    "": ""
-  },
-  {
-    "name": "",
-    "thread": "",
-    "mapValue": "",
-    "value": "",
-    "": ""
-  },
-  {
-    "name": "",
-    "thread": "",
-    "mapValue": "",
-    "value": "",
-    "": ""
-  }
+  {"name": 240, "thread": 233, "mapValue": 1, "value": 8, "": ""},
+  {"name": 253, "thread": 235, "mapValue": 1, "value": 6, "": ""},
+  {"name": 297, "thread": 236, "mapValue": 1, "value": 4, "": ""},
+  {"name": 256, "thread": 240, "mapValue": 1, "value": 9, "": ""},
+  {"name": 243, "thread": 241, "mapValue": 1, "value": 9, "": ""},
+  {"name": 277, "thread": 243, "mapValue": 1, "value": 10 "": ""},
+  
+ {"name": "","thread": "","mapValue": "","value": "","": ""},
+ {"name": "", "thread": "", "mapValue": "", "value": "", "": ""}
 ]
 }
