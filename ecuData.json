@@ -14,34 +14,36 @@
         "children":[
          {"name": 108, "thread": 87, "mapValue": 1, "value": 6, "": ""},
          {"name": 119, "thread": 87, "mapValue": 1, "value": 6, "": ""},
-         {"name": 317, "thread": 87, "mapValue": 1, "value": 6, "": ""},]},
-        {"name": 235, "thread": 78, "mapValue": 1, "value": 5,"": ""},
+         {"name": 317, "thread": 87, "mapValue": 1, "value": 6, "": ""}]},
+        {"name": 235, "thread": 78, "mapValue": 1, "value": 5,"": "",
+        "children": [
+         {"name": 253, "thread": 235, "mapValue": 1, "value": 6, "": ""}]}
        ]},
        {"name": 211,"thread": 45, "mapValue": 1, "value": 4, "": "",
        "children": [
         {"name": 213, "thread": 211, "mapValue": 1, "value": 5, "": ""},
         {"name": 231, "thread": 211, "mapValue": 1, "value": 5, "": ""},
-        {"name": 322, "thread": 211, "mapValue": 1, "value": 5, "": ""},]},
+        {"name": 322, "thread": 211, "mapValue": 1, "value": 5, "": ""}]},
        {"name": 216, "thread": 45, "mapValue": 1, "value": 4, "": "",
        "children": [
-        {"name": 218, "thread": 216, "mapValue": 1, "value": 5, "": ""},]},
-       {"name": 300, "thread": 45, "mapValue": 1, "value": 4, "": ""},
+        {"name": 218, "thread": 216, "mapValue": 1, "value": 5, "": ""}]},
+       {"name": 300, "thread": 45, "mapValue": 1, "value": 4, "": ""}
       ]},
       {"name": 79, "thread": 2, "mapValue": 1, "value": 3, "": ""},
       {"name": 91, "thread": 2, "mapValue": 1, "value": 3, "": "",
       "children": [
-       {"name": 224, "thread": 91, "mapValue": 1, "value": 4, "": ""},]},
+       {"name": 224, "thread": 91, "mapValue": 1, "value": 4, "": ""}]},
       {"name": 132, "thread": 2,"mapValue": 1, "value": 3, "": ""},
       {"name": 136, "thread": 2, "mapValue": 1, "value": 3, "": ""},
       {"name": 168, "thread": 2, "mapValue": 1, "value": 3, "": ""},
       {"name": 205, "thread": 2, "mapValue": 1, "value": 3, "": "",
       "children":[
        {"name": 214, "thread": 205, "mapValue": 1, "value": 4, "": ""},
-       {"name": 215, "thread": 205, "mapValue": 1, "value": 4, "": ""},]},
+       {"name": 215, "thread": 205, "mapValue": 1, "value": 4, "": ""}]},
       {"name": 210, "thread": 2, "mapValue": 1, "value": 3, "": ""},
       {"name": 228, "thread": 2,  "mapValue": 1, "value": 3,"": ""},
       {"name": 289, "thread": 2, "mapValue": 1, "value": 3, "": ""},
-      {"name": 293, "thread": 2, "mapValue": 1, "value": 3, "": ""},
+      {"name": 293, "thread": 2, "mapValue": 1, "value": 3, "": ""}
       ]
     },
     {"name": 15, "thread": 1, "mapValue": 1, 
@@ -59,38 +61,52 @@
              "children":[
               {"name": 125, "thread": 61, "mapValue": 1, "value": 8, "": ""},
               {"name": 172, "thread": 61, "mapValue": 1, "value": 8, "": ""},
-              {"name": 123, "thread": 62, "mapValue": 1, "value": 8, "": ""},
+              {"name": 123, "thread": 62, "mapValue": 1, "value": 8, "": ""}
              ]},
              {"name": 62, "thread": 47, "mapValue": 1, "value": 7, "": ""},
              {"name": 133, "thread": 47, "mapValue": 1, "value": 7, "": "",
              "children": [
               {"name": 234,"thread": 133, "mapValue": 1, "value": 8, "": ""},
-              {"name": 141, "thread": 133, "mapValue": 1, "value": 8, "": ""},]},
+              {"name": 141, "thread": 133, "mapValue": 1, "value": 8, "": ""}]},
              {"name": 170, "thread": 47, "mapValue": 1, "value": 7, "": ""},
              {"name": 206, "thread": 47, "mapValue": 1, "value": 7, "": ""},
              {"name": 209, "thread": 47, "mapValue": 1, "value": 7, "": "",
              "children": [
-              {"name": 246, "thread": 209, "mapValue": 1, "value": 8, "": ""},]},
+              {"name": 246, "thread": 209, "mapValue": 1, "value": 8, "": ""}]},
              {"name": 232, "thread": 47, "mapValue": 1, "value": 7, "": "",
              "children": [
-              {"name": 241, "thread": 232, "mapValue": 1, "value": 8, "": ""},]},
+              {"name": 241, "thread": 232, "mapValue": 1, "value": 8, "": "",
+              "children": [
+               {"name": 243, "thread": 241, "mapValue": 1, "value": 9, "": "",
+               "children":[
+                {"name": 277, "thread": 243, "mapValue": 1, "value": 10, "": ""}]}]
+              }]},
              {"name": 233, "thread": 47, "mapValue": 1, "value": 7, "": "",
              "children": [
-              {"name": 240, "thread": 233, "mapValue": 1, "value": 8, "": ""},]},
-             {"name": 278, "thread": 47, "mapValue": 1, "value": 7, "": ""},
+              {"name": 240, "thread": 233, "mapValue": 1, "value": 8, "": "",
+              "children": [
+               {"name": 256, "thread": 240, "mapValue": 1, "value": 9, "": ""}
+            ]}]},
+             {"name": 278, "thread": 47, "mapValue": 1, "value": 7, "": ""}
            ]},
-           {"name": 198, "thread": 32, "mapValue": 1, "value": 6, "": ""},
-         ]},
-         ]},
+           {"name": 198, "thread": 32, "mapValue": 1, "value": 6, "": ""}
+         ]}
+         ]}
        }
       ]
       
     {"name": 98, "thread": 1, "mapValue": 1, "value": 2, "": "",
       "children": [
-        {"name": 208, "thread": 98, "mapValue": 1, "value": 3, "": ""},
+        {"name": 208, "thread": 98, "mapValue": 1, "value": 3, "": ""}
        ]},
-    {"name": 122, "thread": 1,"mapValue": 1, "value": 2, "": ""},
-    {"name": 179, "thread": 1, "mapValue": 1, "value": 2,"": ""},
+    {"name": 122, "thread": 1,"mapValue": 1, "value": 2, "": "",
+    "children": [
+    {"name": 236, "thread": 122, "mapValue": "", "value": 3,"": "",
+    "children": [
+      {"name": 297, "thread": 236, "mapValue": 1, "value": 4, "": ""}
+     ]}
+ ]},
+    {"name": 179, "thread": 1, "mapValue": 1, "value": 2,"": ""}
   ]
   },
 
@@ -136,29 +152,5 @@
      {"name": 165, "thread": 159, "mapValue": 152, "value": 3, "": ""},
    ]},
   ]},
- 
- 
-
- 
- {"name": 236, "thread": 122, "mapValue": "", "value": 3,"": ""},
- 
-
- 
-
- 
-
- 
- {"name": 253, "thread": 235, "mapValue": 1, "value": 6, "": ""},
- 
- {"name": 297, "thread": 236, "mapValue": 1, "value": 4, "": ""},
- 
- {"name": 256, "thread": 240, "mapValue": 1, "value": 9, "": ""},
- 
- {"name": 243, "thread": 241, "mapValue": 1, "value": 9, "": ""},
- 
- {"name": 277, "thread": 243, "mapValue": 1, "value": 10, "": ""},
-  
- {"name": "","thread": "","mapValue": "","value": "","": ""},
- {"name": "", "thread": "", "mapValue": "", "value": "", "": ""}
 ]
 }
