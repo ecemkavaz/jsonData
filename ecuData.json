@@ -92,8 +92,8 @@
            {"name": 198, "thread": 32, "mapValue": 1, "value": 6, "": ""}
          ]}
          ]}
-       }
-      ]
+       ]}
+      ]},
       
     {"name": 98, "thread": 1, "mapValue": 1, "value": 2, "": "",
       "children": [
@@ -113,25 +113,25 @@
   {"name": 19, "thread": 19, "mapValue": 19, 
    "children": [
     {"name": 64, "thread": 19, "mapValue": 19,  "value": 2, "": ""},
-    {"name": 305, "thread": 19, "mapValue": 19, "value": 2, "": ""},
+    {"name": 305, "thread": 19, "mapValue": 19, "value": 2, "": ""}
     ]
   },
   {"name": 53, "thread": 53, "mapValue": 53, "value": 1, "": ""},
   {"name": 65, "thread": 65, "mapValue": 65, 
   "children":[
    {"name": 181, "thread": 65, "mapValue": 65, "value": 2, "": ""},
-   {"name": 204, "thread": 65, "mapValue": 65, "value": 2, "": ""},
+   {"name": 204, "thread": 65, "mapValue": 65, "value": 2, "": ""}
   ]},
  
  {"name": 59, "thread": 59, "mapValue": 59, 
  "children":[
-   {"name": 135, "thread": 59, "mapValue": 59, "value": 2, "": ""},
+   {"name": 135, "thread": 59, "mapValue": 59, "value": 2, "": ""}
  ]},
 
  {"name": 63, "thread": 63, "mapValue": 63, 
  "children":[
    {"name": 109, "thread": 63, "mapValue": 63, "value": 2,"": ""},
- {"name": 197, "thread": 63, "mapValue": 63, "value": 2, "": ""},
+ {"name": 197, "thread": 63, "mapValue": 63, "value": 2, "": ""}
  ]},
  {"name": 77, "thread": 77, "mapValue": 77, "value": 1,"": ""},
  
@@ -140,7 +140,7 @@
  {"name": 84, "thread": 84, "mapValue": 84, 
  "children":[
   {"name": 187,"thread": 84, "mapValue": 84, "value": 2, "": ""},
-  {"name": 222, "thread": 84, "mapValue": 84, "value": 2, "": ""},
+  {"name": 222, "thread": 84, "mapValue": 84, "value": 2, "": ""}
  ]},
  
   {"name": 130, "thread": 130, "mapValue": 130, "value": 1, "": ""},
@@ -149,8 +149,8 @@
   "children": [
    {"name": 159, "thread": 152, "mapValue": 152, "value": 2, "": "",
    "children": [
-     {"name": 165, "thread": 159, "mapValue": 152, "value": 3, "": ""},
-   ]},
-  ]},
+     {"name": 165, "thread": 159, "mapValue": 152, "value": 3, "": ""}
+   ]}
+  ]}
 ]
 }
