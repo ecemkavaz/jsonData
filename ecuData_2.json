@@ -38,7 +38,7 @@
       {"name": 168, "thread": 2, "mapValue": 1, "value": 3},
       {"name": 205, "thread": 2, "mapValue": 1, 
       "children":[
-       {"name": 214, "thread": 205, "mapValue": 1, "value": 4"},
+       {"name": 214, "thread": 205, "mapValue": 1, "value": 4},
        {"name": 215, "thread": 205, "mapValue": 1, "value": 4}]},
       {"name": 210, "thread": 2, "mapValue": 1, "value": 3},
       {"name": 228, "thread": 2,  "mapValue": 1, "value": 3},
@@ -149,7 +149,7 @@
   "children": [
    {"name": 159, "thread": 152, "mapValue": 152, 
    "children": [
-     {"name": 165, "thread": 159, "mapValue": 152, "value": 3,}
+     {"name": 165, "thread": 159, "mapValue": 152, "value": 3}
    ]}
   ]}
 ]
