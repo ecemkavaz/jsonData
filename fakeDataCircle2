@@ -1,0 +1,149 @@
+{
+	"name": "News Article", "value": 15,
+	"children": [{
+			"name": "thread 1", "toxicity_level": 3, "value": 12,
+			"children": [
+				    {"name": "81", "toxicity_level": , "value":  8},
+				    {"name": "34", "value" : 8,
+					"children": [
+						{"name": "114", "value": 3},
+						{"name": "125", "value": 3},
+						{"name": "132", "value": 3}
+					]
+				},
+				{
+					"name": "174", "value" : 8,
+					"children": [
+						{"name": "268", "value": 3},
+						{"name": "3", "value": 3},
+						{"name": "5", "value": 3},
+						{"name": "53", "value": 3},
+						{"name": "178", "value": 3}
+					]
+				}
+			]
+		},
+		{
+			"name": "thread 2", "value": 12,
+			"children": [
+				{"name": "211", "value": 8},
+				{"name": "6", "value": 8},
+				{"name": "262", "value" : 8,
+					"children": [
+						{"name": "11", "value": 3},
+						{"name": "14", "value": 3},
+						{"name": "138", "value": 3},
+						{"name": "175", "value": 3},
+						{"name": "191", "value": 3},
+						{"name": "18", "value": 3}
+
+					]
+				},
+				{"name": "25", "value": 8,
+					"children": [
+						{"name": "107", "value": 3},
+						{"name": "285", "value": 3},
+						{"name": "41", "value": 3},
+						{"name": "102", "value" : 3,
+							"children": [
+
+							{"name": "152", "value": 1},
+							{"name": "159", "value": 1},
+						    {"name": "182", "value": 1}
+					]}
+
+					]},
+				{"name": "219", "value": 8}
+
+			]
+		},
+
+		{
+			"name": "thread 4", "value": 12,
+			"children": [
+				{"name": "169", "value": 8,
+					"children":[
+						{"name": "215", "value": 3},
+						{"name": "43", "value": 3,
+                          "children": [
+
+							{"name": "180", "value": 1},
+							{"name": "65", "value": 1},
+						    {"name": "67", "value": 1}
+					]}
+					]},
+				{"name": "144", "value": 8},
+				{"name": "74", "value": 8},
+				{"name": "75", "value": 8}
+			]
+		},
+		{
+			"name": "thread 7", "value": 12,
+			"children": [
+				{"name": "163", "value": 8}
+			]
+		},
+		{
+			"name": "thread 8", "value": 12,
+			"children": [
+				{"name": "100", "value": 8},
+				{"name": "185", "value": 8},
+				{"name": "105", "value": 8,
+					"children":[
+						{"name": "116", "value": 3},
+						{"name": "108", "value": 3},
+						{"name": "141", "value": 3}
+					]},
+				{"name": "129", "value": 8},
+				{"name": "131", "value" : 8,
+                  "children": [
+						{"name": "146", "value": 3},
+						{"name": "162", "value": 3},
+						{"name": "154", "value": 3},
+						{"name": "156", "value": 3},
+						{"name": "276", "value": 3,
+                          "children": [
+
+							{"name": "228", "value": 1},
+							{"name": "229", "value": 1},
+						    {"name": "230", "value": 1},
+						    {"name": "231", "value": 1},
+						    {"name": "232", "value": 1}
+					]}
+					]}
+			]
+		},
+		{
+			"name": "thread 9", "value": 12,
+			"children": [
+				{"name": "19", "value": 8},
+				{"name": "20", "value": 8},
+				{"name": "21", "value": 8,
+					"children": [
+						{"name": "22", "value": 3},
+						{"name": "23", "value": 3},
+						{"name": "24", "value": 3},
+						{"name": "30", "value": 3},
+						{"name": "31", "value": 3}
+					]
+				},
+				{"name": "50", "value": 8},
+				{"name": "51", "value": 8,
+                  "children": [
+						{"name": "52", "value": 3},
+						{"name": "54", "value": 3},
+						{"name": "55", "value" : 3,
+							"children": [
+
+							{"name": "56", "value": 1},
+							{"name": "57", "value": 1},
+						    {"name": "58", "value": 1},
+						    {"name": "59", "value": 1},
+						    {"name": "70", "value": 1}
+					]}
+					]},
+				{"name": "71", "value": 8}
+			]
+		}
+	]
+}
