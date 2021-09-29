@@ -42,35 +42,19 @@
 				{"name": "53", "toxicity_level": 1, "value": 8},
 				{"name": "178", "toxicity_level": 0, "value": 8},
 				{"name": "211", "toxicity_level": 0, "value": 8},
-				{"name": "205", "toxicity_level": 1, "value" : 8,
-					"children": [
-						{"name": "11", "toxicity_level": 0, "value": 3},
-						{"name": "14", "toxicity_level": 0, "value": 3},
-						{"name": "138", "toxicity_level": 0, "value": 3},
-						{"name": "175", "toxicity_level": 0, "value": 3},
-						{"name": "191", "toxicity_level": 2, "value": 3},
-						{"name": "18", "toxicity_level": 1,"value": 3}
-
-					]
-				},
-				{"name": "25", "toxicity_level": 3, "value": 8,
-					"children": [
-						{"name": "107", "toxicity_level": 0, "value": 3},
-						{"name": "285", "toxicity_level": 0, "value": 3},
-						{"name": "41", "toxicity_level": 0, "value": 3},
-						{"name": "102", "toxicity_level": 0, "value" : 3,
-							"children": [
-
-							{"name": "152", "toxicity_level": 0, "value": 1},
-							{"name": "159", "toxicity_level": 3, "value": 1},
-						    {"name": "182", "toxicity_level": 0, "value": 1}
-					]}
-
-					]},
-				{"name": "219", "toxicity_level": 2, "value": 8}
-
-			]
+				{"name": "205", "toxicity_level": 1, "value" : 8,}]
+			
 		},
+				
+		     {"name": "25", "toxicity_level": 3, "value": 12,
+					"children": [
+						{"name": "107", "toxicity_level": 0, "value": 8},
+						{"name": "285", "toxicity_level": 0, "value": 8},
+			
+				
+
+		]},
+		
 
 		{
 			"name": "thread 4", "toxicity_level": 0, "value": 12,
@@ -93,10 +77,19 @@
 		},
 		{
 			"name": "thread 3", "toxicity_level": 0, "value": 12,
+			
+		},
+		{
+			"name": "thread 25", "toxicity_level": 2, "value": 12,
 			"children": [
-				{"name": "163", "toxicity_level": 2, "value": 8}
+				{"name": "107", "toxicity_level": 0, "value": 8},
+				{"name": "285", "toxicity_level": 0, "value": 8},
 			]
 		},
+		{
+			"name": "18", "toxicity_level": 2, "value": 12,
+			
+		},     
 		{
 			"name": "thread 8", "toxicity_level": 2, "value": 12,
 			"children": [
