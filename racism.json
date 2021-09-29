@@ -1,14 +1,27 @@
 {
-	"name": "News Article", "toxicity_level": 4, "value": 15,
+	"name": "Racism", "toxicity_level": 4, "value": 15,
 	"children": [{
 			"name": "thread 1", "toxicity_level": 3, "value": 12,
 			"children": [
-				    {"name": "81", "toxicity_level": 1, "value":  8},
+				    {"name": "81", "toxicity_level": 0, "value":  8},
+				    {"name": "114", "toxicity_level": 2, "value": 3},
+			            {"name": "125", "toxicity_level": 0, "value": 8},
+				    {"name": "132", "toxicity_level": 0, "value": 8},
+				    {"name": "174", "toxicity_level": 1, "value": 8},
+				    {"name": "268", "toxicity_level": 3, "value": 8},
 				    {"name": "34", "toxicity_level": 0, "value" : 8,
 					"children": [
-						{"name": "114", "toxicity_level": 0, "value": 3},
-						{"name": "125", "toxicity_level": 1, "value": 3},
-						{"name": "132", "toxicity_level": 0, "value": 3}
+						{"name": "41", "toxicity_level": 0, "value": 3,
+						"children": [
+							{"name": "101", "toxicity_level": 0, "value": 1},
+						        {"name": "169", "toxicity_level": 1, "value": 1},
+						        {"name": "215", "toxicity_level": 0, "value": 1},
+						]},
+						{"name": "102", "toxicity_level": 0, "value": 3},
+						{"name": "159", "toxicity_level": 0, "value": 3},
+						{"name": "182", "toxicity_level": 3, "value": 3},
+						{"name": "219", "toxicity_level": 0, "value": 3},
+						{"name": "152", "toxicity_level": 1, "value": 3}
 					]
 				},
 				{
@@ -24,11 +37,12 @@
 			]
 		},
 		{
-			"name": "thread 2", "toxicity_level": 0, "value": 12,
+			"name": "thread 5", "toxicity_level": 0, "value": 12,
 			"children": [
+				{"name": "53", "toxicity_level": 1, "value": 8},
+				{"name": "178", "toxicity_level": 0, "value": 8},
 				{"name": "211", "toxicity_level": 0, "value": 8},
-				{"name": "6", "toxicity_level": 2, "value": 8},
-				{"name": "262", "toxicity_level": 0, "value" : 8,
+				{"name": "205", "toxicity_level": 1, "value" : 8,
 					"children": [
 						{"name": "11", "toxicity_level": 0, "value": 3},
 						{"name": "14", "toxicity_level": 0, "value": 3},
@@ -78,7 +92,7 @@
 			]
 		},
 		{
-			"name": "thread 7", "toxicity_level": 2, "value": 12,
+			"name": "thread 3", "toxicity_level": 0, "value": 12,
 			"children": [
 				{"name": "163", "toxicity_level": 2, "value": 8}
 			]
